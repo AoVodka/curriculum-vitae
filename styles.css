@@ -1,0 +1,86 @@
+    .experience{   
+    border: 3px solid white;
+    background-color: white;
+    border-radius: 15px;
+    flex: 1 ;
+    margin:1%
+    
+    }
+
+    .formation{
+
+        border: 3px solid white;
+        background-color: white;
+        border-radius: 15px;
+        flex: 1 ;
+        margin: 1%;
+
+    }
+
+    .competence{
+        
+        border: 3px solid white;
+        background-color: white;
+        border-radius: 15px;
+        flex: 1;
+        margin: 1%;
+
+    }
+    .nav{
+        display: flex;
+        background-color: aquamarine;
+        
+                
+    }
+    .body{
+
+        background-color:gray;
+        margin: 0%;
+    }
+        .bob{
+            position: relative;
+            border-radius: 50%;
+            left: 70%;
+            padding: 5px;
+
+
+        }
+    h1{
+        padding: 5px;
+        text-align: center;
+        }
+    h2{
+       font-size: medium;
+       text-align: center;
+    }
+    h3{
+        text-align: center;
+        font-size: small;
+    }
+    #conteneur{
+        display:flex;
+        margin:2%;
+
+    }
+    .img{
+        margin:5%;
+    }
+    .contact{
+     position:relative;
+     left:69%;
+     
+    }
+    h2 a{
+
+        color: black;
+        text-decoration: none;
+        border: 2px solid black;
+        position: relative; 
+        top: 15px;
+       
+    }
+    .img2{
+        margin: 13%;
+    }
+    
+   

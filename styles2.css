@@ -1,0 +1,33 @@
+.nav{
+    display: flex;
+    background-color: aquamarine;
+}
+.bob{
+     
+    border-radius: 50%;
+    position: relative;
+    left: 86%;
+    
+
+}
+.body{
+
+    margin:0;
+    background-color: gray;
+}
+h1 a{
+    font-size: 10;
+    color:black ;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 9%;
+    position:relative;
+    left: 25%;
+}
+.first{
+
+    text-align: center;
+}
+h3{ 
+    text-decoration: underline;
+}
